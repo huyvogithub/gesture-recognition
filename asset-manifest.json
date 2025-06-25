@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gesture-recognition/static/css/main.41957326.css",
+    "main.js": "/gesture-recognition/static/js/main.bdd644a1.js",
+    "static/media/victory.png": "/gesture-recognition/static/media/victory.8710fbb201e8f3ee6274.png",
+    "static/media/thumbs_up.png": "/gesture-recognition/static/media/thumbs_up.e3bf974dcf17c12c8cfa.png",
+    "service-worker.js": "/gesture-recognition/service-worker.js",
+    "static/media/raised_fist.png": "/gesture-recognition/static/media/raised_fist.3eb0d7e1a7340a9e1f26.png",
+    "static/media/love_you.png": "/gesture-recognition/static/media/love_you.4c7a4bdfb9d4ab34b097.png",
+    "static/media/thumbs_down.png": "/gesture-recognition/static/media/thumbs_down.ff92df2544ee1bd95cd8.png",
+    "static/media/raised_hand.png": "/gesture-recognition/static/media/raised_hand.fb8eefef1af8dc1d2415.png",
+    "static/media/call_me.png": "/gesture-recognition/static/media/call_me.ba7468f125df03ec2bdc.png",
+    "static/media/ok_sign.png": "/gesture-recognition/static/media/ok_sign.b96d064bb040b793d193.png",
+    "static/media/pinched_finger.png": "/gesture-recognition/static/media/pinched_finger.d49fe8587ec90c6089c2.png",
+    "static/media/rock_on.png": "/gesture-recognition/static/media/rock_on.c99acde7fccc74a56d9a.png",
+    "static/media/point_up.png": "/gesture-recognition/static/media/point_up.baf8d91401db24b9d0fa.png",
+    "static/media/pinched_hand.png": "/gesture-recognition/static/media/pinched_hand.a091fa4423d978a52a39.png",
+    "static/media/point_down.png": "/gesture-recognition/static/media/point_down.6bf601a72f23bd4eaf70.png",
+    "static/media/point_left.png": "/gesture-recognition/static/media/point_left.78f2dbc45cf08bb548b8.png",
+    "static/media/point_right.png": "/gesture-recognition/static/media/point_right.b8fcd0360eadc4531d7b.png",
+    "static/media/middle_finger.png": "/gesture-recognition/static/media/middle_finger.63566154e17aa7eca2c0.png",
+    "index.html": "/gesture-recognition/index.html",
+    "main.41957326.css.map": "/gesture-recognition/static/css/main.41957326.css.map",
+    "main.bdd644a1.js.map": "/gesture-recognition/static/js/main.bdd644a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41957326.css",
+    "static/js/main.bdd644a1.js"
+  ]
+}
