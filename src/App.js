@@ -161,7 +161,7 @@ function App() {
               marginLeft: "auto",
               marginRight: "auto",
               left: 400,
-              bottom: 500,
+              bottom: 550,
               right: 0,
               textAlign: "center",
               height: 100,
