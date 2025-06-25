@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gesture-recognition/static/css/main.41957326.css",
-    "main.js": "/gesture-recognition/static/js/main.bdd644a1.js",
+    "main.js": "/gesture-recognition/static/js/main.2db9359b.js",
     "static/media/victory.png": "/gesture-recognition/static/media/victory.8710fbb201e8f3ee6274.png",
     "static/media/thumbs_up.png": "/gesture-recognition/static/media/thumbs_up.e3bf974dcf17c12c8cfa.png",
     "service-worker.js": "/gesture-recognition/service-worker.js",
@@ -21,10 +21,10 @@
     "static/media/middle_finger.png": "/gesture-recognition/static/media/middle_finger.63566154e17aa7eca2c0.png",
     "index.html": "/gesture-recognition/index.html",
     "main.41957326.css.map": "/gesture-recognition/static/css/main.41957326.css.map",
-    "main.bdd644a1.js.map": "/gesture-recognition/static/js/main.bdd644a1.js.map"
+    "main.2db9359b.js.map": "/gesture-recognition/static/js/main.2db9359b.js.map"
   },
   "entrypoints": [
     "static/css/main.41957326.css",
-    "static/js/main.bdd644a1.js"
+    "static/js/main.2db9359b.js"
   ]
 }
